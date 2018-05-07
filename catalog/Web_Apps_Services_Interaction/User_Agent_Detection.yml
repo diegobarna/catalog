@@ -13,3 +13,4 @@ projects:
   - user-agent
   - user_agent_parser
   - useragent
+  - device_detector
